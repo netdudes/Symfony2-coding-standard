@@ -1,0 +1,7 @@
+{
+    "name": "netdudes/Symfony2-coding-standard",
+    "description": "Check against the Symfony coding standards.",
+    "target-dir": "Symfony2",
+    "require": {
+    }
+}
